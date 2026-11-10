@@ -1,0 +1,17 @@
+# Python 3.13.0
+
+# Tooling
+uv==0.11.21
+
+# Runtime dependencies
+anthropic==0.69.0
+pathspec==1.1.1
+PyYAML==6.0.3
+pydantic==2.13.4
+python-dateutil==2.8.2
+
+# Dev / testing
+pytest==8.4.2
+mypy==1.20.2
+ruff==0.15.17
+types-PyYAML==6.0.12.20260518
